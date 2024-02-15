@@ -1,0 +1,7 @@
+sphinx
+recommonmark
+sphinx-copybutton
+sphinx-prompt
+sphinx-notfound-page
+nbsphinx
+Pygments
