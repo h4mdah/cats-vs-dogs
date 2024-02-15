@@ -5,3 +5,5 @@ sphinx-prompt
 sphinx-notfound-page
 nbsphinx
 Pygments
+ipython
+jupyter
